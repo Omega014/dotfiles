@@ -1,5 +1,6 @@
 alias ll='ls -al'
 alias g='git'
+alias gip='curl globalip.me'
 
 # 環境変数
 export LANG=ja_JP.UTF-8
