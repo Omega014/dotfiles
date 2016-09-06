@@ -6,3 +6,6 @@ help:
 
 test: ## test
 	ls
+
+stash_test:
+	ls
